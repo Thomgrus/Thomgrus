@@ -21,3 +21,25 @@
 ---
 
 ### :technologist: About Me :
+
+I am a DevOps engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
+
+#### :mortar_board: Certificates
+
+<div id="certificates">
+  <a href="https://www.credly.com/badges/5c62bc15-0049-4af3-aa9f-a71d654b61eb/public_url">
+    <img src="" alt="Terraform Certificate"/>
+  </a>
+  <a href="https://www.credly.com/badges/b4580916-4967-43d1-8573-0d5f6a7a5bfa/public_url">
+    <img src="" alt="Java SE6 Certificate"/>
+  </a>
+</div>
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+</div>
