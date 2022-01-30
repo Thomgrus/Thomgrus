@@ -24,7 +24,7 @@
 
 I am a DevOps engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
 
-<div align="center">
+<div>
   <img src="badges/hacktoberfest-2021-badge.png" title="Hacktoberfest 2021" alt="Spring" width="100px" height="100px"/>&nbsp;
   <img src="badges/hacktoberfest-2020-badge.png" title="Hacktoberfest 2020" alt="Spring" width="100px" height="100px"/>
 </div>
@@ -33,7 +33,7 @@ I am a DevOps engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ### :mortar_board: Certificates :
 
-<div id="certificates" align="center">
+<div id="certificates">
   <a href="https://www.credly.com/badges/5c62bc15-0049-4af3-aa9f-a71d654b61eb/public_url">
     <img src="badges/hashicorp-certified-terraform-associate.png" alt="Terraform Certificate" width="100px"/>
   </a>
@@ -46,7 +46,16 @@ I am a DevOps engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div align="center">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="100px" height="100px"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="100px" height="100px"/>
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Thomgrus&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomgrus&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
