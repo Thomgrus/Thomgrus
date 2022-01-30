@@ -28,10 +28,10 @@ I am a DevOps engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 <div id="certificates">
   <a href="https://www.credly.com/badges/5c62bc15-0049-4af3-aa9f-a71d654b61eb/public_url">
-    <img src="" alt="Terraform Certificate"/>
+    <img src="badges/hashicorp-certified-terraform-associate.png" alt="Terraform Certificate"/>
   </a>
   <a href="https://www.credly.com/badges/b4580916-4967-43d1-8573-0d5f6a7a5bfa/public_url">
-    <img src="" alt="Java SE6 Certificate"/>
+    <img src="badges/oracle-certified-professional-java-se-6-programmer.png" alt="Java SE6 Certificate"/>
   </a>
 </div>
 
