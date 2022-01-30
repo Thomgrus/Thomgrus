@@ -25,8 +25,8 @@
 I am a DevOps engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
 
 <div>
-  <img src="badges/hacktoberfest-2021-badge.png" title="Hacktoberfest 2021" alt="Spring" width="80" height="80"/>&nbsp;
-  <img src="badges/hacktoberfest-2020-badge.png" title="Hacktoberfest 2020" alt="Spring" width="80" height="80"/>
+  <img src="badges/hacktoberfest-2021-badge.png" title="Hacktoberfest 2021" alt="Spring" width="100px" height="100px"/>&nbsp;
+  <img src="badges/hacktoberfest-2020-badge.png" title="Hacktoberfest 2020" alt="Spring" width="100px" height="100px"/>
 </div>
 
 #### :mortar_board: Certificates
@@ -45,6 +45,6 @@ I am a DevOps engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="100px" height="100px"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="100px" height="100px"/>
 </div>
