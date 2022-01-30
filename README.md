@@ -24,14 +24,14 @@
 
 I am a DevOps engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
 
-<div>
+<div align="center">
   <img src="badges/hacktoberfest-2021-badge.png" title="Hacktoberfest 2021" alt="Spring" width="100px" height="100px"/>&nbsp;
   <img src="badges/hacktoberfest-2020-badge.png" title="Hacktoberfest 2020" alt="Spring" width="100px" height="100px"/>
 </div>
 
 #### :mortar_board: Certificates
 
-<div id="certificates">
+<div id="certificates" align="center">
   <a href="https://www.credly.com/badges/5c62bc15-0049-4af3-aa9f-a71d654b61eb/public_url">
     <img src="badges/hashicorp-certified-terraform-associate.png" alt="Terraform Certificate" width="100px"/>
   </a>
@@ -44,7 +44,7 @@ I am a DevOps engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="100px" height="100px"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="100px" height="100px"/>
 </div>
