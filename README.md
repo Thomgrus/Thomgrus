@@ -29,7 +29,9 @@ I am a DevOps engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <img src="badges/hacktoberfest-2020-badge.png" title="Hacktoberfest 2020" alt="Spring" width="100px" height="100px"/>
 </div>
 
-#### :mortar_board: Certificates
+---
+
+### :mortar_board: Certificates :
 
 <div id="certificates" align="center">
   <a href="https://www.credly.com/badges/5c62bc15-0049-4af3-aa9f-a71d654b61eb/public_url">
