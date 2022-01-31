@@ -24,6 +24,14 @@
 
 I am a DevOps engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
 
+Who am I? A real tech enthusiast!
+
+Animated by these subjects I love to practice, share and incite to practice 😊 Through live coding sessions and lively presentations I try to transmit my joy, energy and cool things of the development world.
+
+I regularly keep myself informed about what is going on in the world of hardware and software.
+
+Thus, keeping an eye on technology, self-training, finding solutions even outside the framework of already acquired skills, are concepts that define me and that tend to make me a significant asset for the company.
+
 <div>
   <img src="badges/hacktoberfest-2021-badge.png" title="Hacktoberfest 2021" alt="Spring" width="100px" height="100px"/>&nbsp;
   <img src="badges/hacktoberfest-2020-badge.png" title="Hacktoberfest 2020" alt="Spring" width="100px" height="100px"/>
