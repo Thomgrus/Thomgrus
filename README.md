@@ -46,7 +46,7 @@ I am a DevOps engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div align="center">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="100px" height="100px"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" title="Groovy" alt="Groovy" width="100px" height="100px"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="100px" height="100px"/>&nbsp;
@@ -55,7 +55,7 @@ I am a DevOps engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="100px" height="100px"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="100px" height="100px"/>&nbsp;
-  <img src="icons/github-action.png" title="Github Action" alt="Github Action" width="100px" height="100px"/>&nbsp;
+  <img src="icons/github-actions.png" title="Github Actions" alt="Github Actions" width="100px" height="100px"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="100px" height="100px"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Docker" alt="Docker" width="100px" height="100px"/>&nbsp;
   <img src="icons/terraform.png" title="Terraform" alt="Terraform" width="100px" height="100px"/>&nbsp;
