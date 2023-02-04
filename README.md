@@ -48,6 +48,9 @@ Thus, keeping an eye on technology, self-training, finding solutions even outsid
   <a href="https://www.credly.com/badges/b4580916-4967-43d1-8573-0d5f6a7a5bfa/public_url">
     <img src="badges/oracle-certified-professional-java-se-6-programmer.png" alt="Java SE6 Certificate" width="100px"/>
   </a>
+  <a href="https://www.credential.net/23c37e3d-974f-480b-8440-4f71aacbe44f#gs.ogw7iq">
+    <img src="badges/gcp_archi_badge.png" alt="GCP Archi Certificate" width="100px"/>
+  </a>
 </div>
 
 ---
