@@ -42,7 +42,7 @@ Thus, keeping an eye on technology, self-training, finding solutions even outsid
 ### :mortar_board: Certificates :
 
 <div id="certificates">
-  <a href="https://www.credential.net/23c37e3d-974f-480b-8440-4f71aacbe44f#gs.ogw7iq">
+  <a href="https://www.credential.net/23c37e3d-974f-480b-8440-4f71aacbe44f">
     <img src="badges/gcp_archi_badge.png" alt="GCP Archi Certificate" width="100px"/>
   </a>
   <a href="https://www.credly.com/badges/5c62bc15-0049-4af3-aa9f-a71d654b61eb/public_url">
