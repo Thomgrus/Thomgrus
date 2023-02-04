@@ -73,6 +73,9 @@ Thus, keeping an eye on technology, self-training, finding solutions even outsid
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="100px" height="100px"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="100px" height="100px"/>&nbsp;
+  
+  <img src="icons/datadog.png" title="Datadog" alt="Datadog" width="100px" height="100px"/>&nbsp;
+  <img src="icons/pagerduty.png" title="PagerDuty" alt="PagerDuty" width="100px" height="100px"/>&nbsp;
 
 </div>
 
