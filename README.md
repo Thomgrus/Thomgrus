@@ -45,6 +45,9 @@ Thus, keeping an eye on technology, self-training, finding solutions even outsid
   <a href="https://www.credential.net/23c37e3d-974f-480b-8440-4f71aacbe44f">
     <img src="badges/gcp_archi_badge.png" alt="GCP Archi Certificate" width="100px"/>
   </a>
+  <a href="https://www.credential.net/c3289f97-d05e-4612-9536-7c522cee23f2">
+    <img src="badges/gcp_devops_badge.png" alt="GCP DevOps Certificate" width="100px"/>
+  </a>
   <a href="https://www.credly.com/badges/5c62bc15-0049-4af3-aa9f-a71d654b61eb/public_url">
     <img src="badges/hashicorp-certified-terraform-associate.png" alt="Terraform Certificate" width="100px"/>
   </a>
